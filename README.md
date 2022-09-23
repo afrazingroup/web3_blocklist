@@ -7,7 +7,7 @@ When I add domains for actors impersonating Polygon I verify each one is malicio
 
 I do not verify domains pulled from trusted sources are malicious myself, I rely on the sources to verify.
 
-#Current Sources
+# Current Sources
 
 Metamask
 (https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/config.json)
