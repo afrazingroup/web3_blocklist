@@ -1,5 +1,7 @@
 # web3_blocklist
-This is a merge of all the web3 blocklists that I can find that are open source. Credit goes to the fine security researchers who are flagging domains everyday to the benefit of the web3 community, I literally just dedup them into one list.
+This repository contains two lists. The first list, polygon_blocklist.json, contains domains that are impersonating Polygon as part of a malicious campaign.
+
+The second list, blocklist.json, is a merge of all the web3 blocklists that I can find that are open source. Credit goes to the fine security researchers who are flagging domains everyday to the benefit of the web3 community, I literally just dedup them into one list.
 
 Lists are pulled from their sources every two hours. The sources themselves might add or remove items from their respective lists at different frequencies.
 
