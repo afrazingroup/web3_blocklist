@@ -1,4 +1,7 @@
 # web3_blocklist
+
+# NOTE: As of March 19 I can no longer grab the metamask block list through github API. Working on fixing, but have paused updating the Metamask blocklist with Polygon domains until the issue can be resolved.
+
 This repository contains two lists. The first list, polygon_blocklist.json, contains domains that are impersonating Polygon as part of a malicious campaign.
 
 The second list, blocklist.json, is a merge of all the web3 blocklists that I can find that are open source. Credit goes to the fine security researchers who are flagging domains everyday to the benefit of the web3 community, I literally just dedup them into one list.
