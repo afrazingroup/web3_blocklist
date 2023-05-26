@@ -1,6 +1,17 @@
 # web3_blocklist
 
-## NOTE: As of March 19 2023 I can no longer grab the metamask block list through github API. Working on fixing, but have paused updating the Metamask block list with malicious Polygon domains until the issue can be resolved.
+## NOTE: The automation to update the master blocklist has been disabled for now. The polygon specific blocklist is still regularly updated. Please refer to these blocks lists directly in addition to the Polygon Labs specific one:
+
+Metamask
+(https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/config.json)
+
+Scam Sniffer
+(https://raw.githubusercontent.com/scamsniffer/scam-database/main/blacklist/domains.json)
+
+Phantom Wallet
+(https://raw.githubusercontent.com/phantom-labs/blocklist/master/blocklist.yaml)
+
+========================
 
 This repository contains two lists. The first list, polygon_blocklist.json, contains domains that are impersonating Polygon as part of a malicious campaign.
 
